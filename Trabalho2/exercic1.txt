@@ -1,0 +1,4 @@
+Valores iniciais de a, b e c: 1, 2 e 3.
+Dentro da função, os valores de a, b e c são modificados para 101, 102 e 103.
+Porém, após a execução da função, quando o controle volta para o main, os valores de a, b e c permanecem 1, 2 e 3.
+

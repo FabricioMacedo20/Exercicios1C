@@ -1,0 +1,5 @@
+Antes de chamar a função por_valor: x = 2, y = 4, z = 6.
+Após chamar a função por_valor: x = 2, y = 4, z = 6 (os valores não mudaram).
+Antes de chamar a função por_ref: x = 2, y = 4, z = 6.
+Após chamar a função por_ref: x = 0, y = 0, z = 0 (os valores foram alterados devido à passagem por referência).
+

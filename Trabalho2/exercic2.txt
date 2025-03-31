@@ -1,0 +1,3 @@
+Valores iniciais na função - 1º, 2º, e 3º: 1, 2, 3.
+Valores modificados dentro da função - 1º, 2º e 3º: 101, 102, 103.
+Após a execução, os valores finais em main - 1º, 2º e 3º: 101, 102, 103.

@@ -1,0 +1,2 @@
+Valor de a: 0 - valor de b: 5.
+Após a alteração, valor de a: 5 - valor de b: 5.
